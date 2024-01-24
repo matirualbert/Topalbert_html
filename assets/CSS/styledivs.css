@@ -1,0 +1,35 @@
+.Fruits{
+    border: solid 3px blue;
+    background-color: indigo;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Century Schoolbook L";
+
+}
+.cars{
+    border: red 5px solid;
+    background-color: green;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-family: aakar;
+
+
+}
+.fruits{
+    border: dodgerblue 5px dotted;
+    background-color: maroon;
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+    font-family: Chandas;
+}
+#computers{
+    border: green 10px solid;
+    background-color: mediumpurple;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Droid Sans Mono Slashed";
+}

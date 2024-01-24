@@ -1,0 +1,21 @@
+form{
+    background-image: url("assets/Images/cayenn.jpeg");
+    margin: 10px;
+    padding: 10px;
+}
+label{
+    background-color: blue;
+    text-align: center;
+    font-family: aakar;
+    margin: 20px;
+    justify-content: center;
+    background-image: url("assets/Images/cayenn.jpeg");
+}
+input{
+    background-color: red;
+    text-align: end;
+    font-family: "Century Schoolbook L";
+    margin-block: 20px;
+    justify-content: center;
+    background-image: url("assets/Images/cayenn.jpeg");
+}
